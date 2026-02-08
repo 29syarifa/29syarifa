@@ -1,16 +1,25 @@
-## Hi there 👋
+<h2 align="center">Syarifa here.</h2>
 
-<!--
-**29syarifa/29syarifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHZxbnFpZmkyeGN5NnY2Z2p2NGp3ZXdlY2s0c2xkbHd5YXJnNDBpZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jKdydFwpzqcta/giphy.gif" width="240" />
+</p>
 
-Here are some ideas to get you started:
+---
+👩‍💻 About Me  
+Cybersecurity student learning web application security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Interested in understanding how web vulnerabilities work and how they are mitigated.  
+💻 Focused on hands-on practice with web security fundamentals.  
+🧠 Currently learning HTTP, authentication, Linux, and basic networking.  
+📱 Able to build mobile applications using Flutter for cross-platform development.  
+🍪 I enjoy baking cookies and watching dystopian series in my freetime.
+
+---
+
+## Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,python,html,css,javascript,php,mysql" />
+</p>
+
+---
