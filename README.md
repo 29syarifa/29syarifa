@@ -1,8 +1,9 @@
 <h2 align="center">Syarifa here 👋</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHZxbnFpZmkyeGN5NnY2Z2p2NGp3ZXdlY2s0c2xkbHd5YXJnNDBpZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jKdydFwpzqcta/giphy.gif" width="240" />
+  <img src="https://media.tenor.com/view/huntrix-k-pop-demon-hunters-zoey-netflix-cute-gif-17926444071759328549.gif" width="240" alt="Zoey KPop Demon Hunters Cute Gif">
 </p>
+
 
 ---
 👩‍💻 About Me  
