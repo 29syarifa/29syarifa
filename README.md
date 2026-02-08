@@ -9,9 +9,9 @@
 Cybersecurity student learning web application security.
 
 🔐 Interested in understanding how web vulnerabilities work and how they are mitigated.  
-💻 Focused on hands-on practice with web security fundamentals.  
+💻 Focused on hands on practice with web security fundamentals.  
 🧠 Currently learning HTTP, authentication, Linux, and basic networking.  
-📱 Able to build mobile applications using Flutter for cross-platform development.  
+📱 Able to build mobile applications using Flutter for cross platform development.  
 🍪 I enjoy baking cookies and watching dystopian series in my free time.
 
 ---
