@@ -8,15 +8,16 @@
 👩‍💻 About Me  
 Cybersecurity student learning web application security.
 
-🔐 Interested in understanding how web vulnerabilities work and how they are mitigated.  
-💻 Focused on hands on practice with web security fundamentals.  
-
+🔐 Interested in understanding how web vulnerabilities work and how they can be mitigated.
+💻 Developing web and mobile applications with React, TypeScript, and Flutter.
+📡 Building IoT systems and exploring IoT security.
+🍪 I enjoy baking cookies and watching dystopian movies in my free time.
 ---
 
 ## Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,python,html,css,javascript,php,mysql,dart,flutter" />
+ <img src="https://skillicons.dev/icons?i=linux,python,cpp,javascript,typescript,react,nextjs,tailwind,flutter,arduino,firebase,postgresql" />
 </p>
 
 ---
