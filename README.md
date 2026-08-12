@@ -5,8 +5,8 @@
 </p>
 
 ---
-🕵️ **About Me**
-**Cybersecurity student learning web application security.
+### 🕵️ About me
+#### Cybersecurity student learning web application security.
 - 🔐 Interested in understanding how web vulnerabilities work and how they can be mitigated.
 - 💻 Developing web and mobile applications with React, TypeScript, and Flutter.
 - 📡 Building IoT systems and exploring IoT security.
