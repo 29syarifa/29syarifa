@@ -5,13 +5,12 @@
 </p>
 
 ---
-👩‍💻 About Me  
+🕵️ **About Me**
 Cybersecurity student learning web application security.
-
-🔐 Interested in understanding how web vulnerabilities work and how they can be mitigated.
-💻 Developing web and mobile applications with React, TypeScript, and Flutter.
-📡 Building IoT systems and exploring IoT security.
-🍪 I enjoy baking cookies and watching dystopian movies in my free time.
+- 🔐 Interested in understanding how web vulnerabilities work and how they can be mitigated.
+- 💻 Developing web and mobile applications with React, TypeScript, and Flutter.
+- 📡 Building IoT systems and exploring IoT security.
+- 🍪 I enjoy baking cookies and watching dystopian movies in my free time.
 ---
 
 ## Tools & Technologies
