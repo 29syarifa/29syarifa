@@ -7,10 +7,13 @@
 ---
 ### 🕵️ About me
 #### 
-- 🔐 Interested in understanding how web vulnerabilities work and how they can be mitigated.
+- 🔐 Interested in understanding how system vulnerabilities work and how they can be mitigated.
 - 💻 Developing web and mobile applications with React, TypeScript, and Flutter.
 - 📡 Building IoT systems and exploring IoT security.
-- 🍪 I enjoy baking cookies and watching dystopian movies in my free time.
+- 🛡️ Hands on with SOC and SIEM tools like Splunk and Wazuh.
+- 🍪 I enjoy baking cookies and watching dystopian movies in my free time
+-
+hmu for cookie recipes :>
 ---
 
 ## Tools & Technologies
