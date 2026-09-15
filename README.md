@@ -11,9 +11,7 @@
 - 💻 Developing web and mobile applications with React, TypeScript, and Flutter.
 - 📡 Building IoT systems and exploring IoT security.
 - 🛡️ Hands on with SOC and SIEM tools like Splunk and Wazuh.
-- 🍪 I enjoy baking cookies and watching dystopian movies in my free time
--
-hmu for cookie recipes :>
+- 🍪 I enjoy baking cookies and watching dystopian movies in my free time, hmu for cookie recipes :>
 ---
 
 ## Tools & Technologies
