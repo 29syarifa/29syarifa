@@ -17,7 +17,9 @@
 ## Tools & Technologies
 
 <p>
- <img src="https://skillicons.dev/icons?i=linux,python,cpp,javascript,typescript,react,nextjs,tailwind,flutter,arduino,firebase,postgresql" />
+  <img src="https://skillicons.dev/icons?i=linux,python,cpp,javascript,typescript,react,nextjs,tailwind,flutter,arduino,firebase,postgresql,splunk,cisco" />
 </p>
+
+---
 
 ---
